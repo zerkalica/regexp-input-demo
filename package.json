@@ -80,7 +80,7 @@
 
   },
   "dependencies": {
-    "regexp-input": "^0.x.x"
+    "regexp-input": "^0.x.x",
     "react": "0.x.x"
   }
 }
